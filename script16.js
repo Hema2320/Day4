@@ -1,0 +1,10 @@
+let a=10;
+let b=20;
+console.log("Add",a+b);
+console.log("Sub",a-b);
+console.log("Mul",a*b);
+console.log("Div",a/b);
+console.log("Mod",a%b);
+console.log("Exp",a**b);
+console.log("Incre",a++,b++);
+console.log("Decre",a--,b--);
